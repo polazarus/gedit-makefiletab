@@ -1,0 +1,10 @@
+[Gedit Plugin]
+Loader=python
+Module=makefiletab
+IAge=2
+Name=Makefiletab
+Description=Force tabulation for Makefiles
+Description[fr]=Forcer l'utilisation des tabulations pour les Makefiles
+Authors=Mickaël Delahaye <mickael.delahaye@gmail.com>
+Copyright=Copyright © 2009 Mickaël Delahaye <mickael.delahaye@gmail.com>
+Website=http://whilefalse.com/gedit-makefiletab
